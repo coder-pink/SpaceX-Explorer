@@ -2,7 +2,7 @@
 
 A modern web application built with React, Zustand, React Query, and Mantine UI that allows users to authenticate and explore past and upcoming SpaceX launches with features like search, sorting, filtering, and detail views.
 
-Live Demo: [https://spacex-explorer.vercel.app](https://spacex-explorer.vercel.app)
+Live Demo: [https://spacex-explorer-six.vercel.app](https://spacex-explorer-six.vercel.app/)
 
 ---
 
